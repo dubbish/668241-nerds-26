@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Meilin Mao](https://up.htmlacademy.ru/htmlcss/26/user/668241).
-* Наставник: Оксана Сергеева (https://up.htmlacademy.ru/htmlcss/26/user/488341)
+* Наставник: [Оксана Сергеева](https://up.htmlacademy.ru/htmlcss/26/user/488341).
 
 ---
 
